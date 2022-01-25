@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF2C66B7DEF3b00A3c6541f0242AcbF90d3891B78",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf2c66b7def3b00a3c6541f0242acbf90d3891b78",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Drip Wave NFT's",
+  "SYMBOL": "DWNFT",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/drip-wave-nft",
+  "SHOW_BACKGROUND": true
+}
